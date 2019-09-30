@@ -17,7 +17,8 @@ test.ipynb: This file uses a neural network model to represent the reward functi
 input: Files containing model assumptions
 
 # Run Setting
-test.ipynb have comments that explains the inputs and run parameters that can be revised according to users' preference.
+To DO TASK: File "test.ipynb" have comments about the inputs and run parameters that can be revised according to users' preference. 
+
 
 # Run Program
 1. To run model, open the notebook with Jupyter Notebook and conduct the run.
