@@ -22,3 +22,6 @@ test.ipynb have comments that explains the inputs and run parameters that can be
 # Run Program
 1. To run model, open the notebook with Jupyter Notebook and conduct the run.
 2. The notebook can also be saved as a py file and can be run using "python test.py"
+
+# Input Folder
+It contains some csv files that are used by the program as inputs. File "test.csv" contains a sample of pregernarated scenarios for model training. The program contains scenario generation codes to generate more scenarios in real training. 
