@@ -1,3 +1,5 @@
+This repository will be retired and moved to the official SOA repository: https://github.com/society-of-actuaries/Deep-Learning-for-Liability-Driven-Investment
+
 # LDI_DL
 Deep Learning for Liability Driven Investment
 
